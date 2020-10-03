@@ -2,4 +2,4 @@
 ### Indhold
 
 1. Tirsdag
-⋅⋅1 JavaScript Exercises - Period 2 Day-1 (Callbacks and more)
+⋅⋅1. JavaScript Exercises - Period 2 Day-1 (Callbacks and more)
