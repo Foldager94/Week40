@@ -8,6 +8,6 @@
 * Torsdag
   * Single Origin Policy, and CORS with Java and JAX-RS (CORS and Single Page Application)
 * Fredag
-  * JavaScript, DOM, AJAX, CORS and SVG
-  * REST with JAX RS part 4
+  * JavaScript, DOM, AJAX, CORS and SVG (Exam preparation exercise about AJAX, CORS and SVG)
+  * REST with JAX RS part 4 (Frontend exercise (last part of exercise from last week)
 
